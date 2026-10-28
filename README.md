@@ -4,6 +4,8 @@
 
 > **Project status:** In development  
 > The robotic hardware has been built, initial optimization algorithms have been explored, and the host-side control and data acquisition application is under development.
+>
+> ![Robotic vehicle hardware architecture](project_visuals/vehicle_hardware.jpeg)
 
 ## Overview
 
